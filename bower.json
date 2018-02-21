@@ -1,0 +1,23 @@
+{
+  "name": "ngLocalStorage",
+  "authors": [
+    "rabrux <raul@alchimia.mx>"
+  ],
+  "description": "local storage module for angularjs",
+  "main": "localStorage.js",
+  "moduleType": [],
+  "keywords": [
+    "api",
+    "angular",
+    "module"
+  ],
+  "license": "MIT",
+  "homepage": "http://alchimia.mx",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
